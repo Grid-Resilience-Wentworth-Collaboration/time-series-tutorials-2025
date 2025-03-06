@@ -3,4 +3,5 @@ notebook
 scikit-learn
 matplotlib
 statsmodels
+numpy
 pmdarima
