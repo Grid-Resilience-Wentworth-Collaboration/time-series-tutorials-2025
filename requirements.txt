@@ -1,0 +1,10 @@
+notebook
+pandas
+scikit-learn
+matplotlib
+statsmodels
+tensorflow
+RPI.BME280
+smbus2
+RPi.GPIO
+gpiozero
