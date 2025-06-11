@@ -8,3 +8,5 @@ pmdarima
 tensorflow
 sklearn
 joblib
+RPi.GPIO
+time
